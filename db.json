@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "840ed0cc-e754-42ef-80b9-b4bea3ec9c97",
+      "name": "Mary Heart",
+      "email": "mary@gmail.com",
+      "contactNumber": "095634217891",
+      "userId": "435"
+    },
+    {
+      "id": "3751a950-f319-47a9-b615-d434f0eb1ca2",
+      "userId": "678",
+      "name": "Rod Frost",
+      "email": "frost@gmail.com",
+      "contactNumber": "09783465789"
+    },
+    {
+      "id": "556f7a75-e528-40d9-9bd5-5d75e6e6bbb0",
+      "userId": "765",
+      "name": "Yam",
+      "email": "yam@gmail.com",
+      "contactNumber": "09453412671"
+    },
+    {
+      "id": "f2b6f2c5-1c4a-4d4d-8652-eda076353a92",
+      "userId": "1213",
+      "name": "Dos",
+      "email": "dos@gmail.com",
+      "contactNumber": "09345623781"
+    }
+  ]
+}
